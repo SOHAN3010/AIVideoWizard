@@ -38,5 +38,8 @@ Expertise Needed
 3) AI & Machine Learning (Pre-trained models for automation: background removal, captions).
 
 
+Looking for collaborators – join as a co-founder or contributor!
+
+
 
 
